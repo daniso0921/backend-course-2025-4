@@ -1,0 +1,26 @@
+[
+  {
+    "Date": "2020-01-01",
+    "Rainfall": 0,
+    "Pressure3pm": 1015,
+    "Humidity3pm": 29
+  },
+  {
+    "Date": "2020-01-02",
+    "Rainfall": 3.6,
+    "Pressure3pm": 1008.4,
+    "Humidity3pm": 36
+  },
+  {
+    "Date": "2020-01-03",
+    "Rainfall": 1.2,
+    "Pressure3pm": 1005.2,
+    "Humidity3pm": 67
+  },
+  {
+    "Date": "2020-01-04",
+    "Rainfall": 0.8,
+    "Pressure3pm": 1012.7,
+    "Humidity3pm": 45
+  }
+]

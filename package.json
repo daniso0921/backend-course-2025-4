@@ -1,0 +1,18 @@
+{
+  "name": "backend-course-2025-4",
+  "version": "1.0.0",
+  "description": "Lab 4: Simple HTTP server on Node.js (Variant 7: weather.json)",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js -i ./data/weather.json -h 127.0.0.1 -p 3000",
+    "dev": "nodemon main.js -i ./data/weather.json -h 127.0.0.1 -p 3000"
+  },
+  "dependencies": {
+    "commander": "^12.0.0",
+    "fast-xml-parser": "^4.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
